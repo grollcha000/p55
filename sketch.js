@@ -217,12 +217,6 @@ if(mouseIsPressed==true && mouseX>=200 && mouseX<=400){
     ellipse(570, mouseY+320, 100, 100);
     ellipse(570, mouseY+360, 100, 100);
     ellipse(570, mouseY+400, 100, 100);
-    fill("#ff0000");
-    rect(200, 175, 200, 50);
-
-    fill("#ffffff")
-    textSize(30);
-    text("SUPREME", 225, 210);
 
 
 
