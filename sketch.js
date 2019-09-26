@@ -110,9 +110,10 @@
     ellipse(570, 320, 100, 100);
     ellipse(570, 360, 100, 100);
     ellipse(570, 400, 100, 100);
+    image(graphic,200, 200)
     fill("#ff0000");
     rect(200, 175, 200, 50);
-    image(graphic,200, 200)
+    
 
     fill("#ffffff")
     textSize(30);
